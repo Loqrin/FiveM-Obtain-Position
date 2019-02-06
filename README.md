@@ -8,5 +8,5 @@ Place the folder "loqscript_obtain_position" in your resources folder.
 Once installed and running on the server, simply press backspace to obtain the current position of the player.
 The current position will be shown in the F8 console, as well as in the server console. It will also be saved to a json file.
 
-# Neat feature:
+# Neat Feature:
 One can simply obtain multiple positions and they will be saved in a table on the server, for the current session, which will also be saved to a json file each time a new position is obtained.
