@@ -2,7 +2,8 @@
 A simple script that grabs the player's current position and saves it to a json file.
 
 # Install:
-Place the folder "loqscript_obtain_position" in your resources folder.
+Download the latest release of the script.
+Create a folder in the resources folder and extract the contents of the downloaded zip into the new folder.
 
 # Usage:
 Once installed and running on the server, simply press backspace to obtain the current position of the player.
